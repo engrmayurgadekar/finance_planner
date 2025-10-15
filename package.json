@@ -1,0 +1,25 @@
+{
+  "name": "personal-finance-planner",
+  "version": "1.0.0",
+  "description": "Auto-sync personal finance dashboard with EMI management",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "finance",
+    "personal-finance",
+    "dashboard",
+    "emi-tracker",
+    "investment-tracker"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "."
+}
